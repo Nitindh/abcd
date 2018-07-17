@@ -1,0 +1,4 @@
+org\jbpm\examples\web\TaskServlet.class
+org\jbpm\examples\util\StartupBean.class
+org\jbpm\examples\util\RewardsUserGroupCallback.class
+org\jbpm\examples\web\ProcessServlet.class
